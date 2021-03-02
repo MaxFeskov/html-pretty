@@ -1,0 +1,16 @@
+{
+  "name": "gulp-boilerplate-typescript",
+  "version": "0.0.1",
+  "description": "gulp boilerplate typescript",
+  "scripts": {
+    "pretty": "gulp"
+  },
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-htmllint": "0.0.19",
+    "gulp-jsbeautifier": "^3.0.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.1"
+  }
+}

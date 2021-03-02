@@ -1,2 +1,11 @@
 # html-pretty
-HTML pretty
+
+### install modules
+```
+yarn
+```
+
+### use
+```
+yarn pretty
+```
